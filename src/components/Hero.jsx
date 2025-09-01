@@ -1,6 +1,6 @@
 import React from "react"
 import card1 from "../images/card-1.png"
-import drinks from "../images/soda-Cansonplate.png"
+import drinks from "../images/Soda-CansonPlate.png"
 import pizza from "../images/food-menu-3.png"
 import burger from "../images/burger.png"
 import big from "../images/big-pic.png"
